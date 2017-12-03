@@ -1,5 +1,5 @@
 # OS_Lab3
-Lab 3 for Operating Systems CSC3453 - Disk Simulation Algorithms
+Lab 3 for Operating Systems CSC3453 - Virtual Memory Simulation Algorithms
 
 Author: Gavin Atkin
 Lab3 - CSCI 3453
